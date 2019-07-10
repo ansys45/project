@@ -12,7 +12,7 @@ from vk_api import number_of_subscriptions, get_subscriptions, get_group_name, n
  
 app_id = "7038793"
 my_id = "154930966"
-token = "b4c86af9069493b2b731efdb9c109f16df5c83da7e2c0f1a592dae0301df84e1456a5e94c8351a4cd3511"
+token = ""
 tproger = "30666517"
 
 
